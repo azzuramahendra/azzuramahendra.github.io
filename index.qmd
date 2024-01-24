@@ -17,7 +17,7 @@ editor:
 ## Pendahuluan
 
 ### Latar belakang
-Indonesia adalah salah satu produsen tembakau terbesar di dunia, dan ekspor tembakau memiliki peran penting dalam ekonomi negara. Namun, hubungan antara nilai ekspor tembakau dan PDB Indonesia belum banyak diteliti.
+Indonesia adalah salah satu produsen tembakau terbesar di dunia, dan ekspor tembakau memiliki peran penting dalam ekonomi negara. Peran tembakau dalam perekonomian nasional dapat dilihat dari beberapa indikator  seperti    perannya  dalam  penerimaan  negara  (PDB),    sumber  lapangan kerja dan pendapatan masyarakat.  Industri tembakau secara luas mencakup sektor bahan  baku  primer  daun  tembakau  dan  cengkeh  dan  industri  pengolahan  rokok. Berdasarkan    hasil    analisa Input-Output    tahun    2005    industri    tembakau  memberikan  kontribusi  1,66  persen  terhadap  total  PDB  nasional. Namun, hubungan antara nilai ekspor tembakau dan PDB Indonesia belum banyak diteliti.
 
 PDB adalah ukuran total nilai barang dan jasa yang diproduksi oleh suatu negara dalam periode tertentu. Ini adalah indikator penting dari kesehatan ekonomi suatu negara. Oleh karena itu, memahami hubungan antara nilai ekspor tembakau dan PDB dapat memberikan wawasan berharga tentang dampak ekonomi dari industri tembakau di Indonesia.
 
@@ -78,6 +78,14 @@ Kemudian menurut Peraturan Pemerintah Republik Indonesia Nomor 2 tahun 2009, Eks
 2.  Produk Domestik Bruto (PDB)
 
 Produk Domestik Bruto (PDB) adalah perhitungan yang digunakan oleh suatu negara sebagai ukuran utama bagi aktivitas perekonomian nasionalnya, tetapi pada dasarnya GDP/PDB mengukur seluruh volume produksi dari suatu wilayah (negara) secara geografis. Produk Domestik Bruto atau dalam bahasa Inggrisnya Gross Domestic Product (GDP) adalah nilai barang dan jasa dalam suatu negara yang diproduksikan oleh faktor-faktor produksi milik warga negara dan negara asing. (Sukirno, 2013:35).
+
+3. Pengaruh Nilai Ekspor Terhadap PDB
+
+Produk Domestik Bruto (PDB). PDB adalah segala kegiatan ekonomi yang memproduksi atau menyediakan barang dan jasa yang dapat dipengaruhi oleh beberapa faktor internal di dalam negeri. PDB akan mengalami peningkatan bila nilai ekspor dari suatu negara mengalami meningkat. Ini menunjukkan bahwa barang atau
+jasa yang diproduksi oleh negara itu digemari oleh negara lain, hal itu berarti nilai ekspor mendominasi daripada nilai impor dan akan meningkatkan kegiatan ekonomi masyarakat.(Puspandari, 2022)
+
+Produk Domestik Bruto (PDB). PDB adalah segala kegiatan ekonomi yang memproduksi atau menyediakan barang dan jasa yang dapat dipengaruhi oleh beberapa faktor internal di dalam negeri. PDB akan mengalami peningkatan bila nilai ekspor dari suatu negara mengalami meningkat. Ini menunjukkan bahwa barang atau
+jasa yang diproduksi oleh negara itu digemari oleh negara lain, hal itu berarti nilai ekspor mendominasi daripada nilai impor dan akan meningkatkan kegiatan ekonomi masyarakat
 
 
 ## Metode penelitian
@@ -198,7 +206,15 @@ Secara keseluruhan, hasil ini menunjukkan bahwa, berdasarkan data yang digunakan
 
 ## Referensi
 
+Badan Pusat Statistik, Ekspor Tembakau Menurut Negara Tujuan Utama, 2000-2015. (2018)
+
 M.S. Amir (2000). Ekspor Impor Teori dan Penerapannya. PPm. Jakarta. Hal 2.
 
-M.S. Amir (2003). Seluk Beluk Perdagangan Luar Negeri. Edisi 13. PPm. Jakarta. 
-Hal 49.
+M.S. Amir (2003). Seluk Beluk Perdagangan Luar Negeri. Edisi 13. PPm. Jakarta. Hal 49.
+
+Puspandari, T. dkk., (2022). Pengaruh Ekspor dan Impor terhadap Pertumbuhan 
+Ekonomi di Indonesia. Jurnal Ilmiah Ilmu Pendidikan, 5(11).
+
+Rachmat, M., (2010), Pengembangan Ekonomi Tembakau Nasional: Kebijakan Negara Maju dan Pembelajaran Bagi Indonesia. Jurnal Analisis Kebijakan Pertanian, 8(1).
+
+World Bank, GDP(current US$) Indonesia. (2023)
